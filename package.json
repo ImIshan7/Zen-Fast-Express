@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ImIshan7.github.io/zen-fast-express",
   "name": "zen-fast-express",
   "version": "0.1.0",
   "private": true,
@@ -21,6 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "framer-motion": "^11.11.17"
+    "framer-motion": "^11.11.17",
+    "gh-pages": "^6.2.0"
   }
 }

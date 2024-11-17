@@ -19,7 +19,7 @@ export default function About() {
                         whileInView={{ opacity: 1, x: 0 }}
                         transition={{ duration: 0.6 }}
                     >
-                        <h2 className="text-4xl font-bold mb-6 font-sans">About Zen Fast Express</h2>
+                        <h2 className="text-4xl font-bold mb-6 font-sans">Zen Fast Express</h2>
                         <p className="text-gray-600 mb-6 font-light">
                             Since 2009, Zen Fast Express has been revolutionizing the logistics industry with our
                             innovative approach to shipping and delivery. We combine cutting-edge technology with
