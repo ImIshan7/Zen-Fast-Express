@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zen-fast-express/static/css/main.36cd526b.css",
-    "main.js": "/zen-fast-express/static/js/main.c90f1e2a.js",
-    "static/js/453.9758e638.chunk.js": "/zen-fast-express/static/js/453.9758e638.chunk.js",
-    "index.html": "/zen-fast-express/index.html",
-    "main.36cd526b.css.map": "/zen-fast-express/static/css/main.36cd526b.css.map",
-    "main.c90f1e2a.js.map": "/zen-fast-express/static/js/main.c90f1e2a.js.map",
-    "453.9758e638.chunk.js.map": "/zen-fast-express/static/js/453.9758e638.chunk.js.map"
+    "main.css": "/Zen-Fast-Express/static/css/main.36cd526b.css",
+    "main.js": "/Zen-Fast-Express/static/js/main.df1f14b0.js",
+    "static/js/453.9758e638.chunk.js": "/Zen-Fast-Express/static/js/453.9758e638.chunk.js",
+    "index.html": "/Zen-Fast-Express/index.html",
+    "main.36cd526b.css.map": "/Zen-Fast-Express/static/css/main.36cd526b.css.map",
+    "main.df1f14b0.js.map": "/Zen-Fast-Express/static/js/main.df1f14b0.js.map",
+    "453.9758e638.chunk.js.map": "/Zen-Fast-Express/static/js/453.9758e638.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36cd526b.css",
-    "static/js/main.c90f1e2a.js"
+    "static/js/main.df1f14b0.js"
   ]
 }
