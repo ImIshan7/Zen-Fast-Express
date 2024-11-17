@@ -78,7 +78,7 @@ zen-fast-express/
 ## ✨ Preview  
 
 ### 📌 Home Page  
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Home+Page)  
+![Home Page Screenshot](src/assets/images/Screenshot3.png) 
 
   
 
